@@ -3,7 +3,7 @@
 A modern, responsive developer portfolio built with **Next.js 14**, **TypeScript**, **Tailwind CSS**, and **Framer Motion**. It showcases my background as a Kinesiology student and self-taught web developer, my skills, and real client projects.
 
 🔗 **Live demo:** _add your deployed URL here once you deploy_
-
+](https://david-andrew-portfolio-ictstog5m-andreteam1.vercel.app/)
 ---
 
 ## ✨ Features
